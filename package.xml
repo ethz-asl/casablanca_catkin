@@ -1,0 +1,15 @@
+<package>
+  <name>casablanca_catkin</name>
+  <version>1.0.0</version>
+  <description>casablanca_catkin</description>
+  <maintainer email="mathias.buerki@mavt.ethz.ch">Mathias Buerki</maintainer>
+
+  <license>UNKNNOWN</license>
+
+  <url type="website">https://github.com/Microsoft/cpprestsdk/wiki/How-to-build-for-Linux</url>
+
+  <author>Mathias Buerki</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+</package>
